@@ -1,4 +1,6 @@
 # Lab-04-Conceptual-Design-of-an-IIoT-Sensor-Network-Protocol-Experimentation
+ITAI 3377 Kaylee Auguillard
+
 Conceptual Design of an IIoT Sensor Network
 
 this lab focuses on simulating Iot sensors, transmitting data using MQTT and CoAP protocols, and visualizing real-time data using Python. The objective is go gain hands-on experience with Iot communication protocols, data handling, and dynamic visualization techniques.
